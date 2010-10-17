@@ -1,0 +1,5 @@
+!SLIDE
+
+# Capistrano Basics #
+
+!SLIDE

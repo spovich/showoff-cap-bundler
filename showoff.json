@@ -1,6 +1,9 @@
-[
-  {"section":"title"},
-  {"section":"cap"},
-  {"section":"bundler"},
-  {"section":"final"}
-]
+{ "name": "Capistrano & Bunder",
+  "sections": [
+    { "section":"title" },
+    { "section":"cap" },
+    { "section":"bundler" },
+    { "section":"together" },
+    { "section":"conclusion" }
+  ]
+}
