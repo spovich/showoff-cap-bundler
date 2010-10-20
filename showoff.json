@@ -1,6 +1,8 @@
 { "name": "Capistrano & Bunder",
+  "description": "Capistrano & Bundler Use",
   "sections": [
     { "section":"title" },
+    { "section":"overview" },
     { "section":"cap" },
     { "section":"bundler" },
     { "section":"together" },

@@ -1,3 +1,3 @@
 !SLIDE
 
-# Go forth and cap/bundle you app! #
+# Go forth and cap/bundle your app! #
