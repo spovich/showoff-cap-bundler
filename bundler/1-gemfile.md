@@ -7,7 +7,7 @@
 * Sources options
 * Gems options
 * Using Blocks in Gemfile
-* Show Working Gemfile
+* Sample Gemfile
 
 !SLIDE bullets incremental
 
@@ -38,7 +38,7 @@
 
 !SLIDE commandline
 
-# Disect a working Gemfile #
+# Sample Gemfile #
 
 <pre style="font-size: 1.4em;">
 source 'http://rubygems.org'

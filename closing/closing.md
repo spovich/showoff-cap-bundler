@@ -1,6 +1,6 @@
 !SLIDE
 
-# Go forth and cap/bundle your app! #
+# So, go forth and cap/bundle your app! #
 
 !SLIDE bullets
 

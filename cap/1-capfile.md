@@ -21,21 +21,21 @@
 # Capfile Environment/Variables #
 
 <pre style="font-size: 1.7em;">
-set :application, 'foo'
-set :user, 'bar'
+set :application, 'foo' # system
+set :user, 'bar' # system
 
-set :rake, '/opt/ree/bin/rake'
-set :web_root, '/var/www'
+set :rake, '/opt/ree/bin/rake' # system
+set :web_root, '/var/www' # system
 
-set :staging_server, 'tacquito.foobar.com'
-set :production_server, 'chalupa.foobar.com'
+set :staging_server, 'tacquito.foobar.com' # arbitrary
+set :production_server, 'chalupa.foobar.com' # arbitrary
 
-set :scm, :git
-set :repository, "git@git.foobar.com:#{application}.git"
+set :scm, :git # system
+set :repository, "git@git.foobar.com:#{application}.git" # system
 
 branch = Capistrano::CLI.ui.ask("Deploy branch ('master' is default): ")
 branch = 'master' if branch.empty?
-set :branch, branch
+set :branch, branch # system
 </pre>
 
 !SLIDE bullets commandline
