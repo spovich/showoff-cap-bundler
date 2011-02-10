@@ -1,0 +1,15 @@
+.bullets ul li {
+    text-align: left;
+    li-style: none;
+    background: url(ruby.jpg) no-repeat left center;
+    margin-left: 150px;
+    padding-left: 50px;
+}
+
+.smbullets ul li {
+    text-align: left;
+    li-style: none;
+    background: url(ruby.jpg) no-repeat left center;
+    margin-left: 150px;
+    padding-left: 50px;
+}
